@@ -67,6 +67,7 @@ Examples include:
 - Boeing 737 MAX Accidents
 - Therac-25 Radiation Therapy Accidents
 - Air France Flight 447
+- Air India Boeing 787
 - Additional human factors case studies added over time
 
 Cognitive Psychology Notes
